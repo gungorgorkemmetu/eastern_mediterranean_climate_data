@@ -21,5 +21,5 @@ limitations under the License.
 
 ## Description
 
-The temperature and precipitation data in the Eastern Mediterranean region can be downloaded from the Eastern Mediterranean Climate website.
+The temperature and precipitation data can be downloaded from the Eastern Mediterranean Climate website.
 [![Alt text](https://github.com/gorkemgungormetu/eastern_mediterranean_climate_data/blob/main/EMCC.gif)](http://emcc.mgm.gov.tr/archive.aspx)
