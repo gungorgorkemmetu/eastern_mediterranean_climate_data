@@ -5,7 +5,7 @@ The repository is designed for training purposes in pandas, focusing on the grap
 
 The data and codes were used by Gorkem Gungor for an online poster presentation in the Seventeenth IAMC Annual Meeting 2024 (IAMC-2024) and an in-person poster presentation in the International Conference on Resilience of Nuclear Installations against External Events from a Safety Perspective – Focus on Climate Change (IAEA-RNI-2025).
 
-[![Alt text](https://github.com/gorkemgungormetu/eastern_mediterranean_climate_data/blob/main/RNI2025.png)](https://conferences.iaea.org/event/404/)
+[![Alt text](https://github.com/gungorgorkemmetu/eastern_mediterranean_climate_data/blob/main/RNI2025.png)](https://conferences.iaea.org/event/404/)
 
 ## License
 
